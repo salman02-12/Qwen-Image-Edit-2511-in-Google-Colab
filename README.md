@@ -2,7 +2,7 @@
 
 This repository provides a simple, interactive Google Colab notebook to run **Qwen-Image-Edit 2511**. Built on ComfyUI, this tool allows you to upload an image and use text prompts (along with an optional second reference image) to seamlessly edit it. It is highly optimized, utilizing GGUF models and a built-in Lightning LoRA to run blazingly fast on a free Google Colab T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=AXFQZ2NTnAk)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1cJDb0mWwAXAQRB48rwRbSkl82oSfGKd_?usp=sharing)
 
