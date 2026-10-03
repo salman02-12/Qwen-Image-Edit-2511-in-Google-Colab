@@ -8,6 +8,8 @@ This repository provides a simple, interactive Google Colab notebook to run **Qw
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/salman02-12/Qwen-Image-Edit-2511-in-Google-Colab/blob/main/Qwen_Image_Edit_2511_CoinNoin.ipynb)
 
+[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/2ESWKVZCX62A4)
+
 ---
 <img src="./thumbnail.png" width="100%" />
 
